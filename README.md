@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Home SOC + SIEM(Monitoring Live Attacks)</b> 
-
+- <b><a href = "https://github.com/BigBoyCodes/SOC-SIEMLab/blob/main/README.md"/> Home SOC + SIEM(Monitoring Live Attacks)</a></b>
 
 <h2>📄 Certifications</h2>
 - Google CyberSecurity Specialization<br>
