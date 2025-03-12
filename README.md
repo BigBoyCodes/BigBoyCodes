@@ -4,7 +4,7 @@
 
 - <b><a href = "https://github.com/BigBoyCodes/SOC-SIEMLab/blob/main/README.md"/> Home SOC + SIEM(Monitoring Live Attacks)</a></b>
 
-- <b><a href = "https://github.com/BigBoyCodes/SOC-SIEMLab/blob/main/README.md"/> Active Directory Home Lab</a></b>
+- <b><a href = "https://github.com/BigBoyCodes/ActiveDirectoryLab/blob/main/README.md"/> Active Directory Home Lab</a></b>
 
 <h2>📄 Certifications</h2>
 - Google CyberSecurity Specialization<br>
